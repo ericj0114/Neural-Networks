@@ -4,7 +4,7 @@ Make sure JupyterHub is installed, either on local machine or remote server with
 
 Pull multi_wbc.ipynb file from repository
 
-Download 'cell' folder from \\infoscidiv\DIS-RI\SummerProjects\Eric_Jiang_2018
+Download 'cell' folder 
 
 Make sure .ipynb file and 'cell' folder exist in the same directory
 
