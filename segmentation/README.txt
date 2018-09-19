@@ -4,7 +4,7 @@ Make sure JupyterHub is installed, either on local machine or remote server with
 
 Pull segmentation.ipynb file from repository
 
-Download 'segmentation_data' folder from \\infoscidiv\DIS-RI\SummerProjects\Eric_Jiang_2018
+Download 'segmentation_data' folder 
 
 Make sure .ipynb file and 'segmentation_data' folder exist in the same directory
 
